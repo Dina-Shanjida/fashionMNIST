@@ -38,8 +38,8 @@ A learning project to classify **Fashion MNIST** images using PyTorch. Uses a sm
 
 ## Results
 
-- Training Accuracy ~91%  
-- Testing Accuracy ~88%  
+- Training Accuracy ~98%  
+- Testing Accuracy ~84%  
 - Observations: Model performs well on small dataset but has **room for improvement** with more data or better architecture  
 
 ---
